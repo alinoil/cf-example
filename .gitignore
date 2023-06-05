@@ -1,0 +1,6 @@
+node_modules
+build/
+builds/
+.DS_Store
+*.twbr
+node_modules/.bin/nanoid
